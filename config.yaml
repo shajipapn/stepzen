@@ -1,0 +1,4 @@
+configurationset:
+      - configuration:
+          name: owm_config
+          api_key: af25bf5ed5c90c5bf0e292a47d79f7a3
